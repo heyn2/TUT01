@@ -1,3 +1,7 @@
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=heyn2's%20GitHub&fontSize=70)
+
+
 # 👋 방가방가! 환영합니다!
 안녕하세요! 저는 **이혜연**입니다. 🚀
 
